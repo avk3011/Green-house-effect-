@@ -1,2 +1,2 @@
 # Green-house-effect-
-In this we will be integrating co2 sensor, temperature sensor , LDR 
+In this we will be integrating co2 sensor, temperature sensor , LDR , Soil Moisture Sensor 
